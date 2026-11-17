@@ -10,4 +10,4 @@ Hi, I'm Jennifer. I teach and research special education transition in Kansas, a
 
 Just for fun:
 
-- [Chicken Dashboard](https://github.com/JJfww/chicken-dashboard) — Hensington Palace, a mobile dashboard for my backyard flock: eggs, weather, photos, and The Clucking Times, a blog written by the hens' AI correspondent. [Visit the site →](https://theclucktimes.com)
+- [Chicken Dashboard](https://github.com/JJfww/chicken-dashboard) — Hensington Palace, a mobile dashboard for my backyard flock: eggs, weather, photos, and The Clucking Times, a blog written by the hens' AI correspondent. [Visit the site →](https://thecluckingtimes.com)
